@@ -1,2 +1,2 @@
-MyHelloWorld
+ux-training-pt
 ============
