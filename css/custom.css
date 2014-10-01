@@ -1,0 +1,66 @@
+
+/* Custom CSS File*/
+
+.start-template {
+	padding: 40px 15px;
+}
+
+.img-circle {
+	width: 220px; 
+	height: 190px;
+}
+
+.highlight-text {
+	font-weight:bold;
+	color:#484848;
+}
+
+.no-bullets{
+	list-style-type: none;
+}
+
+.footer{
+	border:1px solid #BEBEBE;
+	padding-top:25px;
+	padding-bottom:100px
+}
+
+hr {
+	height:1px;
+	background-color:#BEBEBE;
+}
+
+h1,h2,h3{
+	color:#EE5921;
+}
+
+.icon-img{
+	width: 250px; 
+	height: 130px;
+}
+
+p{
+	color:#878787;
+}
+
+.nav-text{
+	font-size: 16pt
+}
+
+.carousel-text{
+	color:white
+}
+
+.carousel-caption {
+	left: 10%;
+	right: 20%;
+	padding-bottom: 130px;
+}
+
+.navbar-variable-bottom {
+	padding-bottom: 25px
+}
+
+.navbar{
+	opacity:0.9;
+}
